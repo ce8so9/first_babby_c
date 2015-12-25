@@ -1,0 +1,2 @@
+Ce programme ne compile pas à cause d'un probleme de dépendance concernant l'importation de tri_rapide.c dans le fichier trans_image.c.
+Je n'ai pas trouvé comment résoudre ce problème.
